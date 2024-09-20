@@ -1,9 +1,4 @@
-/*
- * File:   newmain.c
- * Author: Jovan
- *
- * Created on September 19, 2024, 7:07 PM
- */
+
 
 
 #include <xc.h>
